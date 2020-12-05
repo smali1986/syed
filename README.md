@@ -1,4 +1,3 @@
-# LockedMe.com-App
 Phase 1 project
 
 # Output
